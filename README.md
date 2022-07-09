@@ -1,2 +1,2 @@
-# Natour
+# Natours
  Tours and travel showcase
